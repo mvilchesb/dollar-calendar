@@ -1,29 +1,5 @@
-# axios-dolar
+# dollar-calendar
 
-## Project setup
-```
-npm install
-```
+### Calendario para saber a cuánto estuvo el dólar en pesos chilenos.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://i.imgur.com/KTIDFKZ.png)
